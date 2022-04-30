@@ -6,6 +6,7 @@ from networkx.algorithms import community
 from networkx.algorithms.community import greedy_modularity_communities
 from twitter import scrape
 from count_utils import *
+from colors_util import *
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
